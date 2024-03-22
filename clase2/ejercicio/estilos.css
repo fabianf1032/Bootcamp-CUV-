@@ -1,0 +1,26 @@
+.div1{
+    background-color: rgb(205, 150, 11);
+    border: 2px solid rgb(205, 150, 11);
+    width: 709px;
+    border-radius: 50px;
+}
+div {
+        margin: 0px auto;
+        width: 300px;
+        height: 100px;
+    }
+    #pan {
+        border-bottom: 30px solid rgb(138, 93, 3);
+    }
+    .div2 {
+        background-color: rgb(168, 51, 4);
+        border: 2px solid rgb(168, 42, 4);
+        width: 855px;
+        border-radius: 50px;
+    }
+    .div3 {
+        background-color: rgb(238, 181, 49);
+        border: 2px solid rgb(238, 181, 49);
+        width: 709px;
+        border-radius: 50px;
+    }

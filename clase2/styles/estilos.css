@@ -1,0 +1,19 @@
+.div1 {
+  
+  color: antiquewhite;
+  background-color: rgb(50, 126, 126);
+  border: 2px dashed rgb(16, 16, 19);
+  margin:0px auto ;
+  width: 160px;
+  height: 160px;
+  padding: 160px;
+  border-radius: 50px;
+  
+}
+.div2 {
+  margin: 0px auto;
+  width: 100px;
+  height: 100px;
+  padding: 100px;
+  border-radius: 50px;
+}
